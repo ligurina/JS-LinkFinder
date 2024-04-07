@@ -65,7 +65,7 @@ try:
             crawl(link, max_urls=max_urls)
     if __name__ == "__main__":
         if len(sys.argv) != 2:
-            print("Usage: python script.py <url>")
+            print("Example Usage: python JS-LinkFinder.py https://google.com")
             sys.exit(1)
         url = sys.argv[1]
         crawl(url)
