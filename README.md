@@ -46,4 +46,4 @@ JS-LinkFinder is a Python script designed for crawling web pages and extracting 
 Running the script with a target URL:
 
 ```bash
-python JS-LinkFinder.py https://example.com
+python JSLinkFinder.py https://example.com
